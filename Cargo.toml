@@ -1,5 +1,5 @@
 [package]
-name = "kinexon-nrf"
+name = "nrf-starter"
 version = "0.1.0"
 edition = "2021"
 
