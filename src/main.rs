@@ -4,7 +4,7 @@
 use core::panic::PanicInfo;
 
 use nrf52840_hal as _;
-use rtt_target::{rprintln, rtt_init_print}; // memory layout
+use rtt_target::{rprintln, rtt_init_print};
 
 
 #[cortex_m_rt::entry]
