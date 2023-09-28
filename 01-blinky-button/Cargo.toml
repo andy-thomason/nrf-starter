@@ -1,0 +1,12 @@
+[package]
+name = "blinky-button"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cortex-m = { version = "0.7.7", features = ["critical-section-single-core"] }
+cortex-m-rt = "0.7.3"
+nrf52840-hal = "0.16.0"
+rtt-target = { version = "0.4.0" }
