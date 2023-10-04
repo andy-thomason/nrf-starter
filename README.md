@@ -22,3 +22,14 @@ Plug in the board and switch it on.
 cargo run
 ```
 
+## Getting the boards
+
+I've been using the NRF52840-DK board (about 40-50 euros)
+
+https://www.digikey.co.uk/en/products/detail/nordic-semiconductor-asa/NRF52840-DK/8593726
+
+But there is a cheaper version here (about 10 euros)
+
+https://www.digikey.co.uk/en/products/detail/nordic-semiconductor-asa/NRF52840-DONGLE/9491124
+
+Other vendors are available!
