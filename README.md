@@ -1,6 +1,6 @@
 # Getting started with the Nordic nRF52840 board in rust.
 
-# Instalation instructions.
+## Instalation instructions.
 
 ```
 cargo install probe-run
