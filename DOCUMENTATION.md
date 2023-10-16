@@ -22,8 +22,20 @@ Option
 
 https://doc.rust-lang.org/core/option/enum.Option.html
 
-Iterators
+Iterator
 And adaptable trait for getting the next element in a sequence.
 
 https://doc.rust-lang.org/core/iter/trait.Iterator.html
 
+Future
+Coroutines in Rust
+https://doc.rust-lang.org/core/future/trait.Future.html
+
+Fn function trait
+https://doc.rust-lang.org/core/ops/trait.Fn.html
+
+Drop trait
+https://doc.rust-lang.org/core/ops/trait.Drop.html
+
+Deref trait
+https://doc.rust-lang.org/core/ops/trait.Deref.html

@@ -21,7 +21,7 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 
 ## Session 1:
 
-* Rust types - primitives, struts, arrays, str, #[derive(Debug)]
+* Rust types - primitives, structs, enums, arrays, str, #[derive(Debug)]
 * References - immutable/mutable, slices, rules for references.
 * Smart pointers - Box, Rc, Arc.
 * Collections Vec, HashMap, BTreeMap.
@@ -54,6 +54,7 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 ## Session 4
 
 * Atomic, Cell, RefCell and Mutex.
+* Async & Future.
 * `#[no-std]` coding for embedded.
 * Calling and being called by C code.
 * Bindgen - generating interfaces to C code from headers.
