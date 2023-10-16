@@ -49,7 +49,7 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 * Iterators.
 * Drop trait.
 * Deref trait.
-* Exercise: Parse a command, returning a referenced string.
+* Exercise: Parse a command.
 
 ## Session 4
 
@@ -59,7 +59,7 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 * Calling and being called by C code.
 * Bindgen - generating interfaces to C code from headers.
 * Logging and tracing. (https://docs.rs/log/latest/log/)
-* Exercise: Write a no-std "hello world". (https://docs.rust-embedded.org/book/intro/no-std.html)
+* Exercise: Write a static Rust library and call it from C.
 
 ## Session 5
 

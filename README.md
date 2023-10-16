@@ -46,6 +46,10 @@ Other vendors are available!
 
 [Course Outline](COURSE-OUTLINE.md)
 
+## Exercises
+
+[Exercies](EXERCISES.md)
+
 ## Documentation essential reading.
 
-[Course Outline](COURSE-OUTLINE.md)
+[Documentation](DOCUMENTATION.md)
