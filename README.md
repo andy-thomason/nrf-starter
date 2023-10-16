@@ -41,3 +41,11 @@ But there is a cheaper version here (about 10 euros)
 https://www.digikey.co.uk/en/products/detail/nordic-semiconductor-asa/NRF52840-DONGLE/9491124
 
 Other vendors are available!
+
+## Course outline
+
+[Course Outline](COURSE-OUTLINE.md)
+
+## Documentation essential reading.
+
+[Course Outline](COURSE-OUTLINE.md)
