@@ -48,7 +48,7 @@ Other vendors are available!
 
 ## Exercises
 
-[Exercies](EXERCISES.md)
+[Exercises](EXERCISES.md)
 
 ## Documentation essential reading.
 
