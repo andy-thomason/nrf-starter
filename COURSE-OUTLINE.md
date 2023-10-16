@@ -49,7 +49,7 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 * Iterators.
 * Drop trait.
 * Deref trait.
-* Exercise: Parse a command, returning a refernced string.
+* Exercise: Parse a command, returning a referenced string.
 
 ## Session 4
 
