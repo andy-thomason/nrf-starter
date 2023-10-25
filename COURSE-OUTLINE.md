@@ -66,7 +66,7 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 * Setting up the NRF dev board.
 * Example: Hello world.
 * Example: Blinky.
-* The cortex-m library.
-* The NRF Hal library.
+* Concurrency.
+* Synchonisation.
 * Exercise: Run the two samples on the NRF board.
 
