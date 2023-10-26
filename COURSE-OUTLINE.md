@@ -37,6 +37,7 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 * Closures
 * Generic functions
 * Traits and bounds.
+* Result and Option.
 * Dynamic traits.
 * Exercise: Make a generic Animal trait and apply it to cats and dogs.
 
