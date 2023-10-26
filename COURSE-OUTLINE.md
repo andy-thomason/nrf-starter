@@ -35,7 +35,7 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 * Functions and return values
 * Move semantics
 * Closures
-* Generic functions
+* Generic functions and Structures.
 * Traits and bounds.
 * Result and Option.
 * Dynamic traits.
@@ -45,7 +45,6 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 
 * Destructuring assignments.
 * If-let, if-else, while-let.
-* Generic structures.
 * Lifetimes.
 * Iterators.
 * Drop trait.
