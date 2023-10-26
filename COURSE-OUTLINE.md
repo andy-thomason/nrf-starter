@@ -25,7 +25,7 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 * References - immutable/mutable, slices, rules for references.
 * Smart pointers - Box, Rc, Arc.
 * Collections Vec, HashMap, BTreeMap.
-* Control flow - if, match, loop, for, while.
+* Basic control flow - if, match, loop, for, while.
 * Implementing methods.
 * Result and Option.
 * Exercise: Write FizzBuzz in Rust. (https://doc.rust-lang.org/rust-by-example/flow_control/match.html)
@@ -44,9 +44,9 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 ## Session 3
 
 * Destructuring assignments.
-* If-let, if-else, while-let.
 * Lifetimes.
 * Iterators.
+* If-let, if-else, while-let.
 * Drop trait.
 * Deref trait.
 * Exercise: Parse a command.
