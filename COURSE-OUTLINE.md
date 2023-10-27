@@ -63,9 +63,8 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 
 ## Session 5
 
-* Setting up the NRF dev board.
-* Example: Hello world.
-* Example: Blinky.
+* Interrupt handling and Atomics.
+* 
 * Concurrency.
 * Synchonisation.
 * Exercise: Run the two samples on the NRF board.
