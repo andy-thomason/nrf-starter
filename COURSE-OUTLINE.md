@@ -68,4 +68,4 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 * Async & Future.
 * Concurrency.
 * Synchonisation.
-* Exercise: Run the qeum example from embedded rust book.
+* Exercise: Run the qeum example from embedded rust book: https://docs.rust-embedded.org/book/start/qemu.html
