@@ -53,9 +53,9 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 
 ## Session 4
 
-* Atomic, Cell, RefCell and Mutex.
-* Async & Future.
 * `#[no-std]` coding for embedded.
+* Unsafe rust and pointers.
+* Accessing hardware memory locations.
 * Calling and being called by C code.
 * Bindgen - generating interfaces to C code from headers.
 * Logging and tracing. (https://docs.rs/log/latest/log/)
@@ -63,9 +63,9 @@ https://docs.rust-embedded.org/book/intro/no-std.html
 
 ## Session 5
 
-* Interrupt handling and Atomics.
-* 
+* Atomic, Cell, RefCell and Mutex.
+* Interrupt handling.
+* Async & Future.
 * Concurrency.
 * Synchonisation.
-* Exercise: Run the two samples on the NRF board.
-
+* Exercise: Run the qeum example from embedded rust book.
