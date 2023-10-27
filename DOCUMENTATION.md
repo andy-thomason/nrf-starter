@@ -39,3 +39,13 @@ https://doc.rust-lang.org/core/ops/trait.Drop.html
 
 Deref trait
 https://doc.rust-lang.org/core/ops/trait.Deref.html
+
+## Embedded examples:
+Interrupt handling in the NRF HAL.
+https://github.com/nrf-rs/nrf-hal/blob/master/examples/rtc-demo/src/main.rs
+
+Interrupt handling using low level primitives.
+https://github.com/rust-embedded/cortex-m-rt/blob/master/examples/device.rs
+
+
+
